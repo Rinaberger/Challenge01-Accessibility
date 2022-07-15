@@ -20,7 +20,7 @@ Refactoring of HTML code:
     2) Header Section
         a) changed main <div> to <header>
         b) changed navigation <div> to <nav>
-    3) Repaired non-working link for Search Engine Optimization
+    3) Repaired non-working link for Search Engine Optimization by changing class to id
     4) Added sections for each content area
     5) Changed footer div from <div> to <footer>
     6) Added alt text to all images
