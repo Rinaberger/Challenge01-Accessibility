@@ -14,7 +14,7 @@ Scope of work includes:
     5) Review title and make changes as needed.
     6) Assure website functionality works.
 
-Refactoring of HTML code:
+Refactoring of HTML code: 
     ** added comments throughout index.html **
     1) Updated generic title of website to Horiseon
     2) Header Section
