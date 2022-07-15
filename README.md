@@ -16,11 +16,12 @@ Scope of work includes:
 
 Refactoring of HTML code:
     ** added comments throughout index.html **
-    1) Updated generic title of website to Horiseon website.
+    1) Updated generic title of website to Horiseon
     2) Header Section
         a) changed main <div> to <header>
         b) changed navigation <div> to <nav>
     3) Repaired non-working link for Search Engine Optimization
+    4) Added sections for each content area
 
     
     
