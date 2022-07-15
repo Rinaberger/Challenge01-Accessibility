@@ -29,6 +29,11 @@ Refactoring of CSS code:
     2) Created new class (benefits-style) to consolidate duplicate styling with benefit context
     3) Consolidated Benefits H3 styling 
     4) Consolidated Benefits img styling
+    5) Consolidated Content styling by adding .content div
+    6) Consolidated Content img styling by adding .content img
+    7) Consolidated Content h2 styling by adding .content h2
+    8) Reorganized styling elements so content and benefits sections are together within themselves
+
 
 
 
