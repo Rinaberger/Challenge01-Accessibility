@@ -23,6 +23,8 @@ Refactoring of HTML code:
     3) Repaired non-working link for Search Engine Optimization
     4) Added sections for each content area
     5) Changed footer div from <div> to <footer>
+    6) Added alt text to all images
+    7) Replaced a </img> with a simpler /> in the cost management graphic
 
 Refactoring of CSS code:
     1) Consolidated benefits font color and size 
