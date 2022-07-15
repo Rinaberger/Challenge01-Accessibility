@@ -22,7 +22,15 @@ Refactoring of HTML code:
         b) changed navigation <div> to <nav>
     3) Repaired non-working link for Search Engine Optimization
     4) Added sections for each content area
+    5) Changed footer div from <div> to <footer>
 
-    
+Refactoring of CSS code:
+    1) Consolidated benefits font color and size 
+    2) Created new class (benefits-style) to consolidate duplicate styling with benefit context
+    3) Consolidated Benefits H3 styling 
+    4) Consolidated Benefits img styling
+
+
+
     
 
